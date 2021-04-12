@@ -1,4 +1,4 @@
-d3.json("../data/samples.json").then((importedData) => {
+d3.json("../../../samples.json").then((importedData) => {
     
     var data = importedData;
 
